@@ -61,7 +61,7 @@ ul li {
   box-sizing: border-box;
   text-align: center;
   height: 220px;
-  width: 1180px;
+  width: 1480px;
   padding: 20px;
   font-family: Lugrasimo;
   font-style: normal;
@@ -76,7 +76,7 @@ ul li {
 #HOBBIES {
   padding: 10px;
   height: 250px;
-  width: 350px;
+  width: 450px;
   margin: auto 200px;
   box-shadow: 0 2px 60px rgba(0, 0, 0, 0.2);
 }
@@ -90,18 +90,18 @@ ul li {
 #personalstrengths {
   margin-top: -270px;
   margin-bottom: 20px;
-  margin-left: 440px;
+  margin-left: 540px;
 }
 
 #HOBBIES {
   margin-top: -270px;
   margin-bottom: 20px;
-  margin-left: 850px;
+  margin-left: 1050px;
 }
 
 #projects {
   height: 220px;
-  width: 1180px;
+  width: 1480px;
   margin: auto 20px;
   margin-top: 10px;
   margin-bottom: 20px;
@@ -112,7 +112,7 @@ ul li {
 #internships {
   padding-top: 10px;
   height: 200px;
-  width: 1180px;
+  width: 1480px;
   margin: auto 20px;
   margin-top: 10px;
   margin-bottom: 20px;
@@ -122,7 +122,7 @@ ul li {
 #education {
   padding-top: 10px;
   height: 250px;
-  width: 1180px;
+  width: 1480px;
   margin: auto 20px;
   margin-top: 10px;
   margin-bottom: 20px;
